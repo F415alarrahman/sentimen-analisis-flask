@@ -1,0 +1,7 @@
+__pycache__/
+venv/
+*.pyc
+model/saved_model/
+*.h5
+*.json
+*txt
